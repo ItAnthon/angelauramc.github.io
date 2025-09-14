@@ -13,7 +13,7 @@ With this release of PojavLauncher, we refined features, fixed bugs, and impleme
 
 **This is the last major release of PojavLauncher that will support iOS 12 and 13.** Important security patches and bug fixes will be applied when required for a limited time, however take note that issues encountered will not be considered high priority. See more information in #547.
 
-A full commit changelog is available [here](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/compare/v2.1.3...v2.2).
+A full commit changelog is available [here](https://github.com/AngelAuraMC/Amethyst-iOS/compare/v2.1.3...v2.2).
 
 ## 2.1 "Sculk Catalyst"
 Minor release, major changes!
@@ -162,7 +162,7 @@ This release is identical to v2.0, except with a fix for issues installing on Pr
 - Jailbreak is required in order to install OpenJDK and PojavLauncher.
 - Forge won't work.
 - Fabric API won't work.
-- [Tell us](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/issues).
+- [Tell us](https://github.com/AngelAuraMC/Amethyst-iOS/issues).
 
 ### Crashes
 - ~~I've got some reports that JVM was crashing after press “Play” button.~~
